@@ -1,3 +1,5 @@
+For support, contact: info@modelside.xyz
+
 # Privacy Policy for Colorfly: Coloring Book Maker
 
 Last updated: [DATE]
