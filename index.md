@@ -2,9 +2,9 @@ For support, contact: info@modelside.xyz
 
 # Privacy Policy for Colorfly: Coloring Book Maker
 
-Last updated: [DATE]
+Last updated: 12/1/25
 
-This Privacy Policy describes how **Colorfly: Coloring Book Maker** (“the App”) handles your data. This policy also applies to other apps published by [Your Name / ModelSide LLC] unless stated otherwise.
+This Privacy Policy describes how **Colorfly: Coloring Book Maker** (“the App”) handles your data. This policy also applies to other apps published by [ModelSide LLC] unless stated otherwise.
 
 ## Information We Collect
 
@@ -53,7 +53,7 @@ Depending on your location, you may have rights to:
 - Access, correct, or delete your personal information.
 - Object to or restrict certain processing.
 
-To exercise these rights, contact us at: **[your-support-email@example.com]**.
+To exercise these rights, contact us at: **info@modelside.xyz**.
 
 ## Changes to This Policy
 
@@ -63,5 +63,5 @@ We may update this Privacy Policy from time to time. We will update the “Last 
 
 If you have questions about this Privacy Policy, contact us at:
 
-**[Your Name / Company]**  
-**Email:** [your-support-email@example.com]
+**ModelSide LLC**  
+**Email:** info@modelside.xyz
